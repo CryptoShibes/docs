@@ -2,7 +2,7 @@ input: .
 output: .retype
 url: cryptoshibes.github.io/docs/
 branding:
-  title: Project Name
+  title: CryptoShibes
   label: Docs
 links:
 - text: Getting Started
